@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.center {
+    margin: 0 auto;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0,0,0);
+}
+h1 { 
+    color: rgb(255, 0, 0); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 60px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1; 
+}
+
